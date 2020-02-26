@@ -10,6 +10,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class NumberConfig {
 
 	public void m1() {
-		
+		System.out.println("hello....!");
 	}//m1
 }//class
