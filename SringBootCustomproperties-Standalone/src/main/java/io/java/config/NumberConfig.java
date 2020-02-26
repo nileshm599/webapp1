@@ -9,5 +9,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 													basePackages = "dfd")	
 public class NumberConfig {
 
-	
+	public void m1() {
+		
+	}//m1
 }//class
